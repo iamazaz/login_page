@@ -95,7 +95,9 @@ ul li a:hover {
     height: 40px;
     border: 2px solid #ff7200;
     margin-top: 13px;
-    color: #fff;
+    
+    color: black;
+    cursor: pointer;
     font-size: 15px;
     border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
